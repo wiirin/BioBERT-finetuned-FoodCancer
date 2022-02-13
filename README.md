@@ -4,4 +4,4 @@ Fine-tuned BioBERT model for relation extraction task between @FOOD$ and @DISEAS
 
 We have fine-tuned the other BERT-based model with this dataset, including BERT and DistilBERT. The model can be found at https://huggingface.co/Wiirin.
 
-This project is one part of the master's thesis, BioBERT for Dietary Compounds and Cancer Relation Extraction, with Tampere University. 
+This project is one part of the master's thesis, BioBERT for Dietary Compounds and Cancer Relation Extraction, with Tampere University which is published on https://trepo.tuni.fi/handle/10024/135451. 
